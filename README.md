@@ -1,7 +1,8 @@
 Dialectic.AI 🤯🗣️
 Master the art of debate with AI-powered conversations.
-Welcome to Dialectic.AI, an innovative AI-powered debate platform designed to sharpen your critical thinking and argumentation skills! Whether you're practicing for a debate, exploring complex topics, or simply curious about AI-driven dialogue, Dialectic.AI has you covered. Built with Gradio for an interactive experience and powered by the Groq API with the Llama-3.3-70B-Versatile model, this project lets you debate an AI opponent or watch two AI agents engage in a dynamic debate on any topic.
-This project was developed to showcase the potential of AI in fostering structured reasoning and dialogue, making it a valuable tool for education, professional development, and AI research. Hosted on Gradio for an easy-to-use experience, it’s ready to deploy and explore!
+Welcome to Dialectic.AI, an innovative AI-powered debate platform designed to sharpen your critical thinking and argumentation skills! Whether you're practicing for a debate, exploring complex topics, or simply curious about AI-driven dialogue, Dialectic.AI has you covered.
+Built with Gradio for an interactive experience and powered by the Groq API using the llama-3.3-70B-Versatile model, this project lets you debate an AI opponent or watch two AI agents engage in a dynamic debate on any topic.
+This project was developed to showcase the potential of AI in fostering structured reasoning and dialogue, making it a valuable tool for education, professional development, and AI research.
 
 🌟 Features
 
@@ -14,7 +15,7 @@ Educational Tool: Perfect for students, educators, and professionals to practice
 
 🛠️ Tech Stack
 
-Groq API: Powers the Llama-3.3-70B-Versatile model for generating thoughtful and logical arguments.
+Groq API: Powers the llama-3.3-70B-Versatile model for generating thoughtful and logical arguments.
 Gradio: Provides an interactive web interface for user engagement.
 Python: The core programming language driving the project.
 
